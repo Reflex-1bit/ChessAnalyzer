@@ -12,8 +12,7 @@ Enter your Chess.com username and it:
 - Generates a skill profile showing your strengths/weaknesses across openings, middlegame, endgame, tactics, and time management
 - Recommends specific Lichess puzzles to practice your weak areas
 
-![Game Analysis](<img width="1560" height="1092" alt="Screenshot 2026-02-11 151938" src="https://github.com/user-attachments/assets/baa5bf2e-52fc-438a-9838-aa643126b959" />
-)
+![Game Analysis](assets/game-summary.png)
 
 ## Tech Stack
 
@@ -21,8 +20,7 @@ Enter your Chess.com username and it:
 
 **Backend:** Python, Stockfish, Chess.com API, Lichess API
 
-![Skill Profile](<img width="1560" height="1092" alt="Screenshot 2026-02-11 151938" src="https://github.com/user-attachments/assets/d29615df-47a3-4089-8d99-aeb57c1d4883" />
-)
+![Skill Profile](assets/skill-profile.png)
 
 ## How it works
 
